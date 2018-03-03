@@ -48,7 +48,7 @@ public class Grapher {
 	}
 
 	public static double f(double x) {                                             
-		return Math.pow(x, 2);													//Change Function Here!
+		return Math.pow(x, 2);			//Change Function Here!
 	}
 
 	//Simpson's Integral from a modified implementation on Stack Overflow (https://stackoverflow.com/questions/3381817/how-to-solve-an-integral-in-java)
